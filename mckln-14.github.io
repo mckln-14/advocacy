@@ -1,3 +1,6 @@
+theme: jekyll-theme-minimal
+title: Advocacy
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
